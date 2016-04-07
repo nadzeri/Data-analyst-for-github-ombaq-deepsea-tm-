@@ -2,9 +2,7 @@
 
 This project is data analyst for ombaq deepsea-tm github
 
-## Getting Started For Development
-### Setting up Development Environment
-#### Linux setup required tools & dependencies
+## Setting up Development Environment for Linux
 	1. Run './setup.sh' from project root
 ## Building
 	1. Run `jupyter notebook` from your terminal.
